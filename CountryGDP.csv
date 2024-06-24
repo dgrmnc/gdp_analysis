@@ -1,0 +1,904 @@
+Index,Metropolitian Area/City,Country,Official est. GDP(billion US$),Metropolitian Population,Metropolitian_Area,City
+1,A Coruña metropolitan area,Spain,28819.0,1121815,A Coruña,
+2,Aachen,Germany,24296.0,249070,Aachen,
+3,Aalborg,Denmark,31855.0,219487,Aalborg,
+4,Aarhus,Denmark,54927.0,352751,Aarhus,
+5,"Abbotsford, British Columbia",Canada,6239.0,203907,Abbotsford,British Columbia
+6,"Aberdeen, Scotland",United Kingdom,230.0,489840,Aberdeen,Scotland
+7,Abidjan,Ivory Coast,27.0,5600000,Abidjan,
+8,"Abilene, TX MSA",United States,9469.0,179308,Abilene,TX MSA
+9,Abu Dhabi metropolitan area,United Arab Emirates,151073.0,1660000,Abu Dhabi,
+10,Adelaide,Australia,64461.0,1344368,Adelaide,
+11,Ahmedabad,India,80.0,9300000,Ahmedabad,
+12,Aix-Marseille-Provence Metropolis,France,135038.0,1911657,Aix-Marseille-Provence Metropolis,
+13,"Akron, OH MSA",United States,44562.0,697627,Akron,OH MSA
+14,"Albany-Lebanon, OR MSA",United States,6108.0,130467,Albany-Lebanon,OR MSA
+15,"Albany-Schenectady-Troy, NY MSA",United States,80303.0,904617,Albany-Schenectady-Troy,NY MSA
+16,"Albany, GA MSA",United States,7312.0,145786,Albany,GA MSA
+17,"Albuquerque, NM MSA",United States,53862.0,919543,Albuquerque,NM MSA
+18,Alexandria,Egypt,36000.0,5950000,Alexandria,
+19,"Alexandria, LA MSA",United States,7460.0,149189,Alexandria,LA MSA
+20,Alicante metropolitan area,Spain,38851.0,1915282,Alicante,
+21,"Allentown-Bethlehem-Easton, PA-NJ MSA",United States,54323.0,871229,Allentown-Bethlehem-Easton,PA-NJ MSA
+22,Almaty,Kazakhstan,41485.0,2250000,Almaty,
+23,"Altoona, PA MSA",United States,7238.0,121032,Altoona,PA MSA
+24,Alxa League,China,4419.0,262361,Alxa League,
+25,"Amarillo, TX MSA",United States,17376.0,271171,Amarillo,TX MSA
+26,"Ames, IA MSA",United States,8104.0,125767,Ames,IA MSA
+27,Amiens,France,19418.0,304331,Amiens,
+28,Amsterdam metropolitan area,Netherlands,237841.0,2890428,Amsterdam,
+29,Anápolis,Brazil,6740.0,334623,Anápolis,
+30,"Anchorage, AK MSA",United States,31570.0,400470,Anchorage,AK MSA
+31,Angers Loire Métropole,France,29379.0,394256,Angers Loire Métropole,
+32,Ankara,Türkiye,7483.0,5150000,Ankara,
+33,"Ann Arbor, MI MSA",United States,30556.0,366376,Ann Arbor,MI MSA
+34,Annecy,France,2998.0,183697,Annecy,
+35,"Anniston-Oxford, AL MSA",United States,5466.0,115788,Anniston-Oxford,AL MSA
+36,Anshan,China,80968.0,3325372,Anshan,
+37,Antwerp metropolitan area,Belgium,66063.0,1230000,Antwerp,
+38,"Appleton, Wisconsin metropolitan area",United States,16977.0,244845,Appleton,Wisconsin metropolitan area
+39,Arnhem–Nijmegen metropolitan area,Netherlands,34621.0,774506,Arnhem–Nijmegen,
+40,"Asheville, NC MSA",United States,26228.0,476072,Asheville,NC MSA
+41,Astana,Kazakhstan,23115.0,1350228,Astana,
+42,Asturias metropolitan area,Spain,27152.0,1009088,Asturias,
+43,Athens Metropolitan Area,Greece,85809.0,3526887,Athens Metropolitan Area,
+44,"Athens-Clarke County, GA MSA",United States,12628.0,220405,Athens-Clarke County,GA MSA
+45,"Atlanta-Sandy Springs-Alpharetta, GA MSA",United States,525888.0,6222106,Atlanta-Sandy Springs-Alpharetta,GA MSA
+46,"Atlantic City-Hammonton, NJ MSA",United States,16851.0,275638,Atlantic City-Hammonton,NJ MSA
+47,"Auburn-Opelika, AL MSA",United States,8256.0,180773,Auburn-Opelika,AL MSA
+48,Auckland,New Zealand,81227.0,1470000,Auckland,
+49,"Augusta-Richmond County, GA-SC MSA",United States,34185.0,624083,Augusta-Richmond County,GA-SC MSA
+50,"Austin-Round Rock-Georgetown, TX MSA",United States,222054.0,2421115,Austin-Round Rock-Georgetown,TX MSA
+51,"Bakersfield, CA MSA",United States,57541.0,916108,Bakersfield,CA MSA
+52,Balikpapan-Samarinda Metropolitan,Indonesia,29901.0,2621877,Balikpapan-Samarinda Metropolitan,
+53,Ballarat,Australia,4460.0,108491,Ballarat,
+54,"Baltimore-Columbia-Towson, MD MSA",United States,241399.0,2835672,Baltimore-Columbia-Towson,MD MSA
+55,Bandung Metropolitan,Indonesia,38290.0,8790308,Bandung Metropolitan,
+56,Bangkok Metropolitan Region,Thailand,252128.0,19900000,Bangkok Metropolitan Region,
+57,"Bangor, ME MSA",United States,8551.0,153704,Bangor,ME MSA
+58,Banjarmasin Metropolitan,Indonesia,6017.0,2164485,Banjarmasin Metropolitan,
+59,Baotou,China,40412.0,2709378,Baotou,
+60,Barcelona metropolitan area,Spain,182524.0,5105991,Barcelona,
+61,"Barnstable Town, MA MSA",United States,16351.0,232457,Barnstable Town,MA MSA
+62,Barrie,Canada,6453.0,218377,Barrie,
+63,Batam Metropolitan,Indonesia,16006.0,1885481,Batam Metropolitan,
+64,"Baton Rouge, LA MSA",United States,62951.0,873060,Baton Rouge,LA MSA
+65,"Battle Creek, MI MSA",United States,7728.0,133289,Battle Creek,MI MSA
+66,"Bay City, MI MSA",United States,4592.0,102821,Bay City,MI MSA
+67,"Beaumont-Port Arthur, TX MSA",United States,29007.0,393575,Beaumont-Port Arthur,TX MSA
+68,"Beckley, WV MSA",United States,5187.0,113724,Beckley,WV MSA
+69,Belfast,United Kingdom,255.0,671559,Belfast,
+70,Belgrade,Serbia,2531.0,1430000,Belgrade,
+71,"Belleville, Ontario",Canada,3814.0,113045,Belleville,Ontario
+72,"Bellingham, WA MSA",United States,19595.0,230677,Bellingham,WA MSA
+73,Belo Horizonte,Brazil,54996.0,4744599,Belo Horizonte,
+74,"Bend, OR MSA",United States,13878.0,206549,Bend,OR MSA
+75,Bendigo,Australia,3961.0,99416,Bendigo,
+76,Bengaluru,India,110.0,13200000,Bengaluru,
+77,Bergamo metropolitan area,Italy,40539.0,1102286,Bergamo,
+78,Berlin/Brandenburg Metropolitan Region,Germany,271818.0,4679500,Berlin/Brandenburg Metropolitan Region,
+79,Bhopal,India,535.0,2600000,Bhopal,
+80,Bielefeld,Germany,1619.0,591862,Bielefeld,
+81,Bielsko-Biała,Poland,10147.0,169756,Bielsko-Biała,
+82,Bilbao metropolitan area,Spain,37568.0,1014366,Bilbao,
+83,"Billings, MT MSA",United States,13208.0,190208,Billings,MT MSA
+84,"Binghamton, NY MSA",United States,12659.0,244889,Binghamton,NY MSA
+85,Birmingham,United Kingdom,391.0,3150000,Birmingham,
+86,"Birmingham-Hoover, AL MSA",United States,79098.0,1116857,Birmingham-Hoover,AL MSA
+87,"Bismarck, ND MSA",United States,8881.0,134846,Bismarck,ND MSA
+88,"Blacksburg-Christiansburg, VA MSA",United States,9060.0,165812,Blacksburg-Christiansburg,VA MSA
+89,"Bloomington, IL MSA",United States,14431.0,171141,Bloomington,IL MSA
+90,"Bloomington, IN MSA",United States,9085.0,161227,Bloomington,IN MSA
+91,"Bloomsburg-Berwick, PA MSA",United States,5205.0,83017,Bloomsburg-Berwick,PA MSA
+92,Bocholt metropolitan area,Germany,16488.0,71074,Bocholt,
+93,"Boise, ID MSA",United States,49947.0,811336,Boise,ID MSA
+94,Bologna metropolitan area,Italy,45648.0,1017225,Bologna,
+95,Bordeaux,France,73813.0,1100000,Bordeaux,
+96,"Boston-Cambridge-Newton, MA-NH MSA",United States,504167.0,4900550,Boston-Cambridge-Newton,MA-NH MSA
+97,"Boulder, CO MSA",United States,35608.0,327468,Boulder,CO MSA
+98,"Bowling Green, KY MSA",United States,9794.0,185682,Bowling Green,KY MSA
+99,Brantford,Canada,458.0,151620,Brantford,
+100,Brasília,Brazil,65338.0,3548438,Brasília,
+101,Brașov,Romania,8472.0,371802,Brașov,
+102,Bratislava metropolitan area,Slovakia,33072.0,719537,Bratislava,
+103,Breda,Netherlands,3323.0,324812,Breda,
+104,Bremen,Germany,56517.0,1274429,Bremen,
+105,"Bremerton-Silverdale-Port Orchard, WA MSA",United States,15477.0,277673,Bremerton-Silverdale-Port Orchard,WA MSA
+106,Brescia metropolitan area,Italy,46603.0,1250527,Brescia,
+107,Brest Métropole,France,32956.0,381226,Brest Métropole,
+108,"Bridgeport-Stamford-Norwalk, CT MSA",United States,104368.0,962946,Bridgeport-Stamford-Norwalk,CT MSA
+109,Brisbane,Australia,177.0,2388038,Brisbane,
+110,Bristol,United Kingdom,223.0,465866,Bristol,
+111,Brno,Czech Republic,30963.0,398510,Brno,
+112,"Brownsville-Harlingen, TX MSA",United States,14259.0,425208,Brownsville-Harlingen,TX MSA
+113,"Brunswick, GA MSA",United States,5933.0,114442,Brunswick,GA MSA
+114,Brussels metropolitan area,Belgium,23708.0,2784967,Brussels,
+115,Bucharest Metropolitan Area,Romania,78052.0,2200000,Bucharest Metropolitan Area,
+116,Budapest metropolitan area,Hungary,8693.0,2625000,Budapest,
+117,"Buffalo-Niagara Falls, NY MSA",United States,84673.0,1161192,Buffalo-Niagara Falls,NY MSA
+118,"Burlington-South Burlington, VT MSA",United States,17478.0,227521,Burlington-South Burlington,VT MSA
+119,"Burlington, NC MSA",United States,7889.0,176353,Burlington,NC MSA
+120,Bursa,Türkiye,33641.0,3101833,Bursa,
+121,Busan-Gyeongnam Area,South Korea,252145.0,7038129,Busan-Gyeongnam Area,
+122,Bydgoszcz–Toruń metropolitan area,Poland,12417.0,752655,Bydgoszcz–Toruń,
+123,Cádiz-Jerez metropolitan area,Spain,22971.0,639560,Cádiz-Jerez,
+124,Caen,France,25054.0,395885,Caen,
+125,Cairns,Australia,10709.0,153951,Cairns,
+126,Calgary Metropolitan Region,Canada,76548.0,1542956,Calgary Metropolitan Region,
+127,"California-Lexington Park, MD MSA",United States,8849.0,114877,California-Lexington Park,MD MSA
+128,Campinas,Brazil,40525.0,1874487,Campinas,
+129,Campo Grande,Brazil,959.0,786797,Campo Grande,
+130,Campos dos Goytacazes,Brazil,5358.0,511168,Campos dos Goytacazes,
+131,Canberra,Australia,30909.0,465118,Canberra,
+132,"Canton-Massillon, OH MSA",United States,22880.0,399316,Canton-Massillon,OH MSA
+133,"Cape Coral-Fort Myers, FL MSA",United States,44629.0,822453,Cape Coral-Fort Myers,FL MSA
+134,"Cape Girardeau, MO-IL MSA",United States,5282.0,98275,Cape Girardeau,MO-IL MSA
+135,Cape Town,South Africa,56300.0,4375000,Cape Town,
+136,Caracas,Venezuela,70.0,1942652,Caracas,
+137,"Carbondale-Marion, IL MSA",United States,6801.0,132693,Carbondale-Marion,IL MSA
+138,Cardiff-Newport,United Kingdom,495.0,1552527,Cardiff-Newport,
+139,"Carson City, NV MSA",United States,4285.0,58130,Carson City,NV MSA
+140,Casablanca,Morocco,47000.0,4625000,Casablanca,
+141,"Casper, WY MSA",United States,6273.0,79601,Casper,WY MSA
+142,"Cedar Rapids, IA MSA",United States,22009.0,275592,Cedar Rapids,IA MSA
+143,Central German Metropolitan Region,Germany,109582.0,2411051,Central German Metropolitan Region,
+144,"Chambersburg-Waynesboro, PA MSA",United States,7457.0,156902,Chambersburg-Waynesboro,PA MSA
+145,"Champaign-Urbana, IL MSA",United States,14328.0,223265,Champaign-Urbana,IL MSA
+146,Chandigarh,India,6.0,2575000,Chandigarh,
+147,Changchun,China,96240.0,9066906,Changchun,
+148,Changde,China,54355.0,5279102,Changde,
+149,Changji Prefecture,China,20113.0,1613585,Changji Prefecture,
+150,Changsha,China,208.0,10420600,Changsha,
+151,Charleroi,Belgium,1693.0,396820,Charleroi,
+152,"Charleston-North Charleston, SC MSA",United States,56933.0,830529,Charleston-North Charleston,SC MSA
+153,"Charleston, WV MSA",United States,14891.0,251914,Charleston,WV MSA
+154,"Charlotte-Concord-Gastonia, NC-SC MSA",United States,228913.0,2756069,Charlotte-Concord-Gastonia,NC-SC MSA
+155,"Charlottesville, VA MSA",United States,17190.0,223825,Charlottesville,VA MSA
+156,"Chattanooga, TN-GA MSA",United States,40042.0,574507,Chattanooga,TN-GA MSA
+157,Chengdu,China,260409.0,16600000,Chengdu,
+158,Chennai,India,1283.0,12200000,Chennai,
+159,"Cheyenne, WY MSA",United States,7545.0,100723,Cheyenne,WY MSA
+160,"Chicago–Naperville, IL–IN–WI CSA",United States,832899.0,9806184,Chicago–Naperville,IL–IN–WI CSA
+161,"Chico, CA MSA",United States,11077.0,207303,Chico,CA MSA
+162,Chittagong,Bangladesh,255.0,4925000,Chittagong,
+163,Chongqing,China,407562.0,10100000,Chongqing,
+164,Chuzhou,China,43960.0,3937868,Chuzhou,
+165,"Cincinnati, OH-KY-IN MSA",United States,186141.0,2265051,Cincinnati,OH-KY-IN MSA
+166,"Clarksville, TN-KY MSA",United States,16209.0,336605,Clarksville,TN-KY MSA
+167,Clermont-Ferrand,France,26492.0,362578,Clermont-Ferrand,
+168,"Cleveland-Elyria, OH MSA",United States,162788.0,2063132,Cleveland-Elyria,OH MSA
+169,"Cleveland, TN MSA",United States,6296.0,128479,Cleveland,TN MSA
+170,Cluj-Napoca,Romania,13155.0,286598,Cluj-Napoca,
+171,Cocos (Keeling) Islands,Cocos (Keeling) Islands,11.0,561,Cocos (Keeling) Islands,
+172,"Coeur d'Alene, ID MSA",United States,9609.0,183578,Coeur d'Alene,ID MSA
+173,Coimbatore,India,42.0,2775000,Coimbatore,
+174,Coimbra,Portugal,9837.0,140796,Coimbra,
+175,"College Station-Bryan, TX MSA",United States,18181.0,277824,College Station-Bryan,TX MSA
+176,"Colorado Springs, CO MSA",United States,47905.0,765424,Colorado Springs,CO MSA
+177,"Columbia, MO MSA",United States,12514.0,214630,Columbia,MO MSA
+178,"Columbia, SC MSA",United States,54072.0,847686,Columbia,SC MSA
+179,"Columbus, GA-AL MSA",United States,17038.0,324110,Columbus,GA-AL MSA
+180,"Columbus, IN MSA",United States,7979.0,83540,Columbus,IN MSA
+181,"Columbus, OH MSA",United States,169123.0,2161511,Columbus,OH MSA
+182,Communauté d'agglomération Nîmes Métropole,France,23471.0,564024,Communauté d'agglomération Nîmes Métropole,
+183,Communauté d'agglomération Pau Béarn Pyrénées,France,26427.0,311949,Communauté d'agglomération Pau Béarn Pyrénées,
+184,Constanța,Romania,9159.0,263688,Constanța,
+185,Copenhagen metropolitan area,Denmark,179846.0,1857783,Copenhagen,
+186,Córdoba metropolitan area,Spain,14929.0,326039,Córdoba,
+187,"Corpus Christi, TX MSA",United States,28228.0,421628,Corpus Christi,TX MSA
+188,"Corvallis, OR MSA",United States,5443.0,97630,Corvallis,OR MSA
+189,Coventry,United Kingdom,139.0,379387,Coventry,
+190,"Crestview-Fort Walton Beach-Destin, FL MSA",United States,21491.0,299786,Crestview-Fort Walton Beach-Destin,FL MSA
+191,"Cumberland, MD-WV MSA",United States,4342.0,94122,Cumberland,MD-WV MSA
+192,Curitiba,Brazil,58082.0,3054076,Curitiba,
+193,Daegu,South Korea,50400.0,2750000,Daegu,
+194,Daejeon,South Korea,40000.0,1540000,Daejeon,
+195,Dalian,China,125.0,5050000,Dalian,
+196,"Dallas-Fort Worth-Arlington, TX MSA",United States,688928.0,7943685,Dallas-Fort Worth-Arlington,TX MSA
+197,"Dalton, GA MSA",United States,8726.0,143604,Dalton,GA MSA
+198,"Danville, IL MSA",United States,3946.0,72337,Danville,IL MSA
+199,"Daphne-Fairhope-Foley, AL MSA",United States,10811.0,246435,Daphne-Fairhope-Foley,AL MSA
+200,Daqing,China,33362.0,2781562,Daqing,
+201,Dar es Salaam,Tanzania,104.0,6450000,Dar es Salaam,
+202,"Davenport-Moline-Rock Island, IA-IL MSA",United States,25774.0,379374,Davenport-Moline-Rock Island,IA-IL MSA
+203,"Dayton, OH MSA",United States,41111.0,812595,Dayton,OH MSA
+204,"Decatur, AL MSA",United States,8038.0,157425,Decatur,AL MSA
+205,"Decatur, IL MSA",United States,8181.0,101483,Decatur,IL MSA
+206,"Deltona-Daytona Beach-Ormond Beach, FL MSA",United States,28134.0,705897,Deltona-Daytona Beach-Ormond Beach,FL MSA
+207,Denpasar Metropolitan,Indonesia,9941.0,2260667,Denpasar Metropolitan,
+208,"Denver-Aurora-Lakewood, CO MSA",United States,288800.0,2985871,Denver-Aurora-Lakewood,CO MSA
+209,"Des Moines-West Des Moines, IA MSA",United States,67334.0,729053,Des Moines-West Des Moines,IA MSA
+210,"Detroit-Warren-Dearborn, MI Metropolitan Statistical Area",United States,305412.0,4345761,Detroit-Warren-Dearborn,MI Metropolitan Statistical Area
+211,Deyang,China,34855.0,3456161,Deyang,
+212,Dijon Métropole,France,23472.0,368440,Dijon Métropole,
+213,Dongying,China,43222.0,2193518,Dongying,
+214,"Dothan, AL MSA",United States,8410.0,152517,Dothan,AL MSA
+215,"Dover, DE MSA",United States,9920.0,186946,Dover,DE MSA
+216,Dresden,Germany,50788.0,1343747,Dresden,
+217,Dubai-Sharjah-Ajman metropolitan area,United Arab Emirates,202800.0,4264316,Dubai-Sharjah-Ajman,
+218,"Dubuque, IA MSA",United States,8184.0,98677,Dubuque,IA MSA
+219,"Duluth, MN-WI MSA",United States,16822.0,291323,Duluth,MN-WI MSA
+220,Durban,South Africa,64700.0,3525000,Durban,
+221,"Durham-Chapel Hill, NC MSA",United States,63950.0,664310,Durham-Chapel Hill,NC MSA
+222,"East Stroudsburg, PA MSA",United States,10009.0,167198,East Stroudsburg,PA MSA
+223,"Eau Claire, WI MSA",United States,10839.0,173644,Eau Claire,WI MSA
+224,Edinburgh,United Kingdom,329.0,527620,Edinburgh,
+225,Edmonton Metropolitan Region,Canada,6523.0,1467219,Edmonton Metropolitan Region,
+226,Eindhoven,Netherlands,48257.0,300751,Eindhoven,
+227,"El Centro, CA MSA",United States,11064.0,178713,El Centro,CA MSA
+228,"El Paso, TX MSA",United States,43283.0,872195,El Paso,TX MSA
+229,"Elizabethtown-Fort Knox, KY MSA",United States,7500.0,157026,Elizabethtown-Fort Knox,KY MSA
+230,"Elkhart-Goshen, IN MSA",United States,21094.0,206890,Elkhart-Goshen,IN MSA
+231,"Elmira, NY MSA",United States,4337.0,81426,Elmira,NY MSA
+232,"Enid, OK MSA",United States,3319.0,61920,Enid,OK MSA
+233,Enschede,Netherlands,27337.0,315807,Enschede,
+234,Erfurt,Germany,20347.0,213227,Erfurt,
+235,"Erie, PA MSA",United States,13171.0,267689,Erie,PA MSA
+236,"Eugene-Springfield, OR MSA",United States,20913.0,382353,Eugene-Springfield,OR MSA
+237,European Metropolis of Lille,France,101806.0,1300000,European Metropolis of Lille,
+238,"Evansville, IN-KY MSA",United States,25278.0,314038,Evansville,IN-KY MSA
+239,Ezhou,China,14574.0,1079353,Ezhou,
+240,"Fairbanks, AK MSA",United States,6804.0,95356,Fairbanks,AK MSA
+241,Faisalabad,Pakistan,43.0,3204704,Faisalabad,
+242,Fangchenggang,China,10624.0,1046068,Fangchenggang,
+243,"Fargo, ND-MN MSA",United States,18792.0,258663,Fargo,ND-MN MSA
+244,"Farmington, NM MSA",United States,6594.0,120418,Farmington,NM MSA
+245,"Fayetteville-Springdale-Rogers, AR MSA",United States,37749.0,576403,Fayetteville-Springdale-Rogers,AR MSA
+246,"Fayetteville, NC MSA",United States,25960.0,529318,Fayetteville,NC MSA
+247,"Flagstaff, AZ MSA",United States,9080.0,144060,Flagstaff,AZ MSA
+248,Flensburg,Germany,10839.0,113800,Flensburg,
+249,"Flint, MI MSA",United States,17635.0,401983,Flint,MI MSA
+250,"Florence-Muscle Shoals, AL MSA",United States,6540.0,153911,Florence-Muscle Shoals,AL MSA
+251,"Florence, SC MSA",United States,11807.0,199119,Florence,SC MSA
+252,"Fond du Lac, WI MSA",United States,6203.0,103836,Fond du Lac,WI MSA
+253,"Fort Collins, CO MSA",United States,25923.0,366778,Fort Collins,CO MSA
+254,"Fort Smith, AR-OK MSA",United States,12024.0,247072,Fort Smith,AR-OK MSA
+255,"Fort Wayne, IN MSA",United States,28565.0,426076,Fort Wayne,IN MSA
+256,Fort-de-France,France,10741.0,74921,Fort-de-France,
+257,Fortaleza,Brazil,217.0,3326820,Fortaleza,
+258,Freiburg im Breisgau,Germany,30404.0,656753,Freiburg im Breisgau,
+259,"Fresno, CA MSA",United States,55427.0,1015190,Fresno,CA MSA
+260,Fukuoka–Kitakyushu,Japan,182952.0,4750000,Fukuoka–Kitakyushu,
+261,Fuzhou,China,183.0,4450000,Fuzhou,
+262,"Gadsden, AL MSA",United States,3489.0,103088,Gadsden,AL MSA
+263,"Gainesville, FL MSA",United States,19655.0,348282,Gainesville,FL MSA
+264,"Gainesville, GA MSA",United States,15264.0,212692,Gainesville,GA MSA
+265,Gdansk metropolitan area,Poland,23448.0,1098379,Gdansk,
+266,Geelong,Australia,8725.0,271848,Geelong,
+267,Geneva,Switzerland,55423.0,506343,Geneva,
+268,George Town,Malaysia,27535.0,2050000,George Town,
+269,"Gettysburg, PA MSA",United States,4429.0,106027,Gettysburg,PA MSA
+270,Ghent metropolitan area,Belgium,39015.0,561524,Ghent,
+271,Gibraltar,Gibraltar,3265.0,32688,Gibraltar,
+272,Gladstone,Australia,4464.0,45130,Gladstone,
+273,Glasgow,United Kingdom,677.0,1861315,Glasgow,
+274,"Glens Falls, NY MSA",United States,8034.0,126440,Glens Falls,NY MSA
+275,Goiânia,Brazil,22763.0,2078438,Goiânia,
+276,Gold Coast,Australia,26669.0,679127,Gold Coast,
+277,"Goldsboro, NC MSA",United States,6049.0,117286,Goldsboro,NC MSA
+278,Gothenburg,Sweden,104766.0,1051345,Gothenburg,
+279,Granada metropolitan area,Spain,18091.0,495900,Granada,
+280,Grand Besançon Métropole,France,19018.0,197494,Grand Besançon Métropole,
+281,"Grand Forks, ND-MN MSA",United States,6580.0,103144,Grand Forks,ND-MN MSA
+282,"Grand Island, NE MSA",United States,5387.0,76333,Grand Island,NE MSA
+283,"Grand Junction, CO MSA",United States,8218.0,158636,Grand Junction,CO MSA
+284,Grand Poitiers communauté urbaine,France,15217.0,266160,Grand Poitiers communauté urbaine,
+285,"Grand Rapids-Kentwood, MI MSA",United States,77296.0,1094198,Grand Rapids-Kentwood,MI MSA
+286,Grand Reims,France,23619.0,297068,Grand Reims,
+287,"Grants Pass, OR MSA",United States,3658.0,87730,Grants Pass,OR MSA
+288,Graz,Austria,32416.0,351369,Graz,
+289,"Great Falls, MT MSA",United States,4781.0,84864,Great Falls,MT MSA
+290,Greater Buenos Aires,Argentina,235600.0,13700000,Greater Buenos Aires,
+291,Greater Cairo,Egypt,190200.0,21500000,Greater Cairo,
+292,Dhaka,Bangladesh,2582.0,21300000,Dhaka,
+293,Greater Dublin Area,Ireland,272454.0,1400000,Greater Dublin Area,
+294,Greater Helsinki,Finland,125166.0,1320000,Greater Helsinki,
+295,Greater Manchester,United Kingdom,108000.0,2812569,Greater Manchester,
+296,Greater Manila Area,Philippines,1623.0,26400000,Greater Manila Area,
+297,Greater Mexico City,Mexico,340800.0,21804515,Greater Mexico City,
+298,Greater Montreal,Canada,17053.0,4336487,Greater Montreal,
+299,Greater São Paulo,Brazil,261642.0,22600000,Greater São Paulo,
+300,Greater Sudbury,Canada,7242.0,172476,Greater Sudbury,
+301,Greater Tokyo Area,Japan,2080758.0,40700000,Greater Tokyo Area,
+302,Greater Toronto and Hamilton Area,Canada,349201.0,7281694,Greater Toronto and Hamilton Area,
+303,Greater Vancouver,Canada,122113.0,2743765,Greater Vancouver,
+304,"Greeley, CO MSA",United States,27344.0,350176,Greeley,CO MSA
+305,"Green Bay, WI MSA",United States,24565.0,330292,Green Bay,WI MSA
+306,"Greensboro-High Point, NC MSA",United States,49029.0,784101,Greensboro-High Point,NC MSA
+307,"Greenville-Anderson, SC MSA",United States,57403.0,958958,Greenville-Anderson,SC MSA
+308,"Greenville, NC MSA",United States,10921.0,173542,Greenville,NC MSA
+309,Grenoble metropolitan area,France,53606.0,760823,Grenoble,
+310,Groningen,Netherlands,22301.0,232874,Groningen,
+311,Guadalajara,Mexico,65800.0,5750000,Guadalajara,
+312,Shenzhen,China,455694.0,14678000,Shenzhen,
+313,Guangzhou,China,429.0,18676000,Guangzhou,
+314,Tianjin,China,243.0,13866000,Tianjin,
+315,Suzhou,China,356.0,12748000,Suzhou,
+316,Ningbo,China,234.0,9618000,Ningbo,
+317,Foshan,China,189.0,9499000,Foshan,
+318,Nantong,China,169.0,7727000,Nantong,
+319,Dongguan,China,167.0,10466000,Dongguan,
+320,Changzhou,China,142.0,5278000,Changzhou,
+321,Guelph,Canada,7891.0,167658,Guelph,
+322,Guiyang,China,62511.0,5987018,Guiyang,
+323,Gujranwala,Pakistan,15681.0,5011066,Gujranwala,
+324,"Gulfport-Biloxi, MS MSA",United States,23511.0,420782,Gulfport-Biloxi,MS MSA
+325,Gwangju,South Korea,36000.0,1630000,Gwangju,
+326,"Hagerstown-Martinsburg, MD-WV MSA",United States,13990.0,302510,Hagerstown-Martinsburg,MD-WV MSA
+327,Haifa,Israel,25082.0,1050000,Haifa,
+328,Haixi Prefecture,China,8986.0,468216,Haixi Prefecture,
+329,"Halifax, Nova Scotia",Canada,18228.0,450910,Halifax,Nova Scotia
+330,Hamamatsu,Japan,543.0,800866,Hamamatsu,
+331,Hamburg Metropolitan Region,Germany,261306.0,5100000,Hamburg Metropolitan Region,
+332,Hami,China,8814.0,673383,Hami,
+333,"Hammond, LA MSA",United States,5447.0,137048,Hammond,LA MSA
+334,"Hanford-Corcoran, CA MSA",United States,8146.0,152981,Hanford-Corcoran,CA MSA
+335,Hangzhou,China,279000.0,12500000,Hangzhou,
+336,Hannover–Braunschweig–Göttingen–Wolfsburg Metropolitan Region,Germany,186167.0,3845271,Hannover–Braunschweig–Göttingen–Wolfsburg Metropolitan Region,
+337,Hanoi,Vietnam,4204.0,8053663,Hanoi,
+338,Harbin,China,941.0,10009854,Harbin,
+339,"Harrisburg-Carlisle, PA MSA",United States,47815.0,603493,Harrisburg-Carlisle,PA MSA
+340,"Harrisonburg, VA MSA",United States,10226.0,136555,Harrisonburg,VA MSA
+341,"Hartford-East Hartford-Middletown, CT MSA",United States,114887.0,1221725,Hartford-East Hartford-Middletown,CT MSA
+342,"Hattiesburg, MS MSA",United States,7901.0,173359,Hattiesburg,MS MSA
+343,Hefei,China,179.0,7150000,Hefei,
+344,Heidelberg,Germany,34067.0,1544830,Heidelberg,
+345,"Hickory-Lenoir-Morganton, NC MSA",United States,18281.0,368347,Hickory-Lenoir-Morganton,NC MSA
+346,"Hilton Head Island-Bluffton, SC MSA",United States,12497.0,228410,Hilton Head Island-Bluffton,SC MSA
+347,"Hinesville, GA MSA",United States,4768.0,86378,Hinesville,GA MSA
+348,Hiroshima,Japan,613.0,2860750,Hiroshima,
+349,Ho Chi Minh City metropolitan area,Vietnam,96399.0,10900000,Ho Chi Minh City,
+350,Hobart,Australia,11388.0,218874,Hobart,
+351,Hohhot,China,40605.0,3446100,Hohhot,
+352,"Homosassa Springs, FL MSA",United States,5664.0,162529,Homosassa Springs,FL MSA
+353,Hong Kong,China,406775.0,7588000,Hong Kong,
+354,"Hot Springs, AR MSA",United States,4200.0,100089,Hot Springs,AR MSA
+355,"Houma-Thibodaux, LA MSA",United States,10812.0,200656,Houma-Thibodaux,LA MSA
+356,"Houston-The Woodlands-Sugar Land, TX MSA",United States,633184.0,7340118,Houston-The Woodlands-Sugar Land,TX MSA
+357,Hsinchu,Taiwan,11980.0,448207,Hsinchu,
+358,Huai'an,China,58361.0,4556230,Huai'an,
+359,"Huntington-Ashland, WV-KY-OH MSA",United States,18046.0,354304,Huntington-Ashland,WV-KY-OH MSA
+360,"Huntsville, AL MSA",United States,38101.0,514465,Huntsville,AL MSA
+361,Hyderabad,India,74.0,9482000,Hyderabad,
+362,Iași,Romania,8682.0,423154,Iași,
+363,"Idaho Falls, ID MSA",United States,11248.0,165608,Idaho Falls,ID MSA
+364,"Indianapolis-Carmel-Anderson, IN MSA",United States,184394.0,2141779,Indianapolis-Carmel-Anderson,IN MSA
+365,Indore,India,81.0,3175000,Indore,
+366,Innsbruck,Austria,15921.0,228866,Innsbruck,
+367,"Iowa City, IA MSA",United States,12900.0,178991,Iowa City,IA MSA
+368,Iserlohn,Germany,16739.0,91873,Iserlohn,
+369,Istanbul metropolitan area,Türkiye,275365.0,16500000,Istanbul,
+370,"Ithaca, NY MSA",United States,7274.0,104777,Ithaca,NY MSA
+371,İzmir,Türkiye,51460.0,3050000,İzmir,
+372,"Jackson, MI MSA",United States,7990.0,160066,Jackson,MI MSA
+373,"Jackson, MS MSA",United States,34043.0,583197,Jackson,MS MSA
+374,"Jackson, TN MSA",United States,10814.0,181579,Jackson,TN MSA
+375,"Jacksonville, FL MSA",United States,117162.0,1675668,Jacksonville,FL MSA
+376,"Jacksonville, NC MSA",United States,10737.0,207298,Jacksonville,NC MSA
+377,Jaipur,India,15.0,4050000,Jaipur,
+378,Jakarta metropolitan area,Indonesia,323030.0,34307088,Jakarta,
+379,"Janesville-Beloit, WI MSA",United States,9277.0,164060,Janesville-Beloit,WI MSA
+380,Jeddah,Saudi Arabia,138970.0,5500000,Jeddah,
+381,"Jefferson City, MO MSA",United States,9698.0,150350,Jefferson City,MO MSA
+382,Jerusalem,Israel,480.0,1008400,Jerusalem,
+383,Jiayuguan,China,4083.0,312663,Jiayuguan,
+384,Jinan,China,179.0,6200000,Jinan,
+385,Jinchang,China,5199.0,438026,Jinchang,
+386,Beijing,China,618648.0,21500000,Beijing,
+387,Jingmen,China,27640.0,2596927,Jingmen,
+388,Jiujiang,China,46981.0,4600276,Jiujiang,
+389,Johannesburg,South Africa,134682.0,8400042,Johannesburg,
+390,"Johnson City, TN MSA",United States,9943.0,210256,Johnson City,TN MSA
+391,"Johnstown, PA MSA",United States,5499.0,131441,Johnstown,PA MSA
+392,"Jonesboro, AR MSA",United States,7016.0,135512,Jonesboro,AR MSA
+393,"Joplin, MO MSA",United States,9407.0,184086,Joplin,MO MSA
+394,Jundiaí,Brazil,20081.0,698679,Jundiaí,
+395,Kabul,Afghanistan,6000.0,4800000,Kabul,
+396,Kagoshima,Japan,530.0,1588256,Kagoshima,
+397,"Kahului-Wailuku-Lahaina, HI MSA",United States,11649.0,164351,Kahului-Wailuku-Lahaina,HI MSA
+398,Kaiserslautern,Germany,9577.0,124300,Kaiserslautern,
+399,"Kalamazoo-Portage, MI MSA",United States,18786.0,261173,Kalamazoo-Portage,MI MSA
+400,"Kankakee, IL MSA",United States,8320.0,106074,Kankakee,IL MSA
+401,"Kansas City, MO-KS MSA",United States,169501.0,2209494,Kansas City,MO-KS MSA
+402,Kaohsiung,Taiwan,58071.0,2775000,Kaohsiung,
+403,Karachi,Pakistan,1762.0,14910352,Karachi,
+404,Karamay,China,12858.0,490348,Karamay,
+405,Karlsruhe,Germany,43054.0,504030,Karlsruhe,
+406,Kassel,Germany,19433.0,340200,Kassel,
+407,Katowice metropolitan area,Poland,52713.0,2486510,Katowice,
+408,Kaunas urban area,Lithuania,14406.0,298753,Kaunas urban area,
+409,Kelowna,Canada,8401.0,223529,Kelowna,
+410,"Kennewick-Richland, WA MSA",United States,19553.0,311469,Kennewick-Richland,WA MSA
+411,Kiel,Germany,26831.0,325300,Kiel,
+412,Kielce,Poland,9144.0,192468,Kielce,
+413,"Killeen-Temple, TX MSA",United States,24105.0,496228,Killeen-Temple,TX MSA
+414,"Kingsport-Bristol, TN-VA MSA",United States,17596.0,311272,Kingsport-Bristol,TN-VA MSA
+415,"Kingston, NY MSA",United States,9053.0,182319,Kingston,NY MSA
+416,"Kingston, Ontario",Canada,6873.0,176176,Kingston,Ontario
+417,"Kitchener, Ontario",Canada,24529.0,593397,Kitchener,Ontario
+418,"Knoxville, TN MSA",United States,58893.0,907968,Knoxville,TN MSA
+419,Koblenz,Germany,1701.0,113638,Koblenz,
+420,"Kokomo, IN MSA",United States,5079.0,83574,Kokomo,IN MSA
+421,Kolkata,India,1602.0,17200000,Kolkata,
+422,"Konstanz, metropolitan area",Germany,12212.0,288097,Konstanz,metropolitan area
+423,Košice,Slovakia,14243.0,228249,Košice,
+424,Kraków metropolitan area,Poland,29165.0,1498499,Kraków,
+425,Kuala Lumpur,Malaysia,59831.0,8900000,Kuala Lumpur,
+426,Kumamoto,Japan,398.0,1817426,Kumamoto,
+427,Kunming,China,97628.0,8460088,Kunming,
+428,Kuwait City,Kuwait,118000.0,4750000,Kuwait City,
+429,Kyiv,Ukraine,275.0,3475000,Kyiv,
+430,Kyoto–Osaka–Kobe,Japan,699474.0,17700000,Kyoto–Osaka–Kobe,
+431,"La Crosse-Onalaska, WI-MN MSA",United States,9693.0,139094,La Crosse-Onalaska,WI-MN MSA
+432,"Lafayette-West Lafayette, IN MSA",United States,14002.0,226452,Lafayette-West Lafayette,IN MSA
+433,"Lafayette, LA MSA",United States,24996.0,481125,Lafayette,LA MSA
+434,Lagos metropolitan area,Nigeria,102010.0,20100000,Lagos,
+435,Lahore,Pakistan,40000.0,13900000,Lahore,
+436,"Lake Charles, LA MSA",United States,18574.0,207320,Lake Charles,LA MSA
+437,"Lake Havasu City-Kingman, AZ MSA",United States,7715.0,220816,Lake Havasu City-Kingman,AZ MSA
+438,"Lakeland-Winter Haven, FL MSA",United States,37305.0,787404,Lakeland-Winter Haven,FL MSA
+439,"Lancaster, PA MSA",United States,36312.0,556629,Lancaster,PA MSA
+440,"Lansing-East Lansing, MI MSA",United States,32633.0,540870,Lansing-East Lansing,MI MSA
+441,"Laredo, TX MSA",United States,17010.0,267780,Laredo,TX MSA
+442,"Las Cruces, NM MSA",United States,9336.0,223337,Las Cruces,NM MSA
+443,Las Palmas metropolitan area,Spain,1693.0,556159,Las Palmas,
+444,"Las Vegas-Henderson-Paradise, NV MSA",United States,160728.0,2322985,Las Vegas-Henderson-Paradise,NV MSA
+445,Launceston,Australia,3961.0,89532,Launceston,
+446,"Lawrence, KS MSA",United States,6176.0,119964,Lawrence,KS MSA
+447,"Lawton, OK MSA",United States,6198.0,128523,Lawton,OK MSA
+448,Le Mans Métropole,France,18533.0,267560,Le Mans Métropole,
+449,"Lebanon, PA MSA",United States,7510.0,144011,Lebanon,PA MSA
+450,Leeds,United Kingdom,371.0,2175000,Leeds,
+451,Leeuwarden metropolitan area,Netherlands,11749.0,124084,Leeuwarden,
+452,Leiden,Netherlands,18472.0,270225,Leiden,
+453,Les Abymes,France,10807.0,52118,Les Abymes,
+454,Lethbridge,Canada,5059.0,128795,Lethbridge,
+455,"Lewiston-Auburn, ME MSA",United States,6001.0,113023,Lewiston-Auburn,ME MSA
+456,"Lewiston, ID-WA MSA",United States,3641.0,65512,Lewiston,ID-WA MSA
+457,"Lexington-Fayette, KY MSA",United States,35670.0,517916,Lexington-Fayette,KY MSA
+458,Lhasa,China,9832.0,867891,Lhasa,
+459,Lianyungang,China,47512.0,4599360,Lianyungang,
+460,Liège,Belgium,31085.0,500903,Liège,
+461,Lima,Peru,114400.0,11283787,Lima,
+462,"Lima, OH MSA",United States,10789.0,101115,Lima,OH MSA
+463,Limoges metropolitan area,France,12558.0,296099,Limoges,
+464,"Lincoln, NE MSA",United States,25459.0,342448,Lincoln,NE MSA
+465,Linz,Austria,43918.0,271234,Linz,
+466,Lisbon metropolitan area,Portugal,10333.0,2500000,Lisbon,
+467,"Little Rock-North Little Rock-Conway, AR MSA",United States,47322.0,757615,Little Rock-North Little Rock-Conway,AR MSA
+468,Liuzhou,China,46060.0,4157934,Liuzhou,
+469,Liverpool,United Kingdom,219.0,506565,Liverpool,
+470,Ljubljana,Slovenia,23937.0,294464,Ljubljana,
+471,Łódź metropolitan area,Poland,21779.0,1112069,Łódź,
+472,"Logan, UT-ID MSA",United States,8009.0,155362,Logan,UT-ID MSA
+473,London metropolitan area,United Kingdom,978402.0,14800000,London,
+474,"London, Ontario",Canada,20818.0,550605,London,Ontario
+475,"Longview, TX MSA",United States,20259.0,291219,Longview,TX MSA
+476,"Longview, WA MSA",United States,6626.0,111956,Longview,WA MSA
+477,Longyan,China,41623.0,2723637,Longyan,
+478,"Los Angeles–Long Beach, CA CSA",United States,1227469.0,18372485,Los Angeles–Long Beach,CA CSA
+479,"Louisville/Jefferson County, KY-IN MSA",United States,90836.0,1284553,Louisville/Jefferson County,KY-IN MSA
+480,"Lubbock, TX MSA",United States,18116.0,328283,Lubbock,TX MSA
+481,Lublin,Poland,10065.0,664000,Lublin,
+482,Lucknow,India,383.0,4000000,Lucknow,
+483,Luoyang,China,74352.0,2550000,Luoyang,
+484,Luxembourg metropolitan area,Luxembourg,85503.0,643941,Luxembourg,
+485,"Lynchburg, VA MSA",United States,12464.0,263613,Lynchburg,VA MSA
+486,Maanshan,China,31706.0,2159930,Maanshan,
+487,Macao,China,54677.0,692000,Macao,
+488,Mackay,Australia,6540.0,80148,Mackay,
+489,"Macon-Bibb County, GA MSA",United States,12760.0,233916,Macon-Bibb County,GA MSA
+490,"Madera, CA MSA",United States,7738.0,160256,Madera,CA MSA
+491,"Madison, WI MSA",United States,60909.0,687077,Madison,WI MSA
+492,Madrid Metropolitan Area,Spain,277508.0,6980646,Madrid Metropolitan Area,
+493,Magdeburg,Germany,1825.0,295200,Magdeburg,
+494,Makassar Metropolitan,Indonesia,17052.0,2900468,Makassar Metropolitan,
+495,Málaga metropolitan area,Spain,3226.0,1030000,Málaga,
+496,Malmö,Sweden,64427.0,748433,Malmö,
+497,Manado Metropolitan,Indonesia,5487.0,1008126,Manado Metropolitan,
+498,Manaus,Brazil,30375.0,1802014,Manaus,
+499,"Manchester-Nashua, NH MSA",United States,34533.0,426594,Manchester-Nashua,NH MSA
+500,"Manhattan, KS MSA",United States,8457.0,133072,Manhattan,KS MSA
+501,"Mankato, MN MSA",United States,6831.0,104072,Mankato,MN MSA
+502,"Mansfield, OH MSA",United States,5494.0,125319,Mansfield,OH MSA
+503,Mataram  Metropolitan,Indonesia,5491.0,3808908,Mataram  Metropolitan,
+504,"McAllen-Edinburg-Mission, TX MSA",United States,27685.0,888367,McAllen-Edinburg-Mission,TX MSA
+505,Medan Metropolitan,Indonesia,28248.0,5106670,Medan Metropolitan,
+506,Medellín,Colombia,35000.0,4225000,Medellín,
+507,"Medford, OR MSA",United States,12024.0,221644,Medford,OR MSA
+508,Melbourne,Australia,318677.0,5050000,Melbourne,
+509,"Memphis, TN-MS-AR MSA",United States,96183.0,1332305,Memphis,TN-MS-AR MSA
+510,"Merced, CA MSA",United States,11560.0,290014,Merced,CA MSA
+511,Métropole du Grand Nancy,France,2459.0,427697,Métropole du Grand Nancy,
+512,Métropole Nice Côte d'Azur,France,47361.0,1101039,Métropole Nice Côte d'Azur,
+513,Métropole Rouen Normandie,France,49637.0,499830,Métropole Rouen Normandie,
+514,Metropolis of Lyon,France,116412.0,1424069,Metropolis of Lyon,
+515,Metropolitan Area of Bogotá,Colombia,121800.0,10200000,Metropolitan Area of Bogotá,
+516,Metropolitan City of Bari,Italy,30011.0,1223102,Metropolitan City of Bari,
+517,Metropolitan City of Cagliari,Italy,12645.0,419553,Metropolitan City of Cagliari,
+518,Metropolitan City of Catania,Italy,22017.0,1068482,Metropolitan City of Catania,
+519,Metropolitan City of Florence,Italy,39496.0,1000111,Metropolitan City of Florence,
+520,Metropolitan City of Genoa,Italy,30556.0,564981,Metropolitan City of Genoa,
+521,Metropolitan City of Messina,Italy,12441.0,598811,Metropolitan City of Messina,
+522,Metropolitan City of Palermo,Italy,2553.0,647160,Metropolitan City of Palermo,
+523,Metropolitan Cork,Ireland,117882.0,270000,Metropolitan Cork,
+524,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",United States,483755.0,6139340,Miami-Fort Lauderdale-Pompano Beach,FL MSA
+525,"Michigan City-La Porte, IN MSA",United States,5286.0,111675,Michigan City-La Porte,IN MSA
+526,"Midland, MI MSA",United States,7047.0,83674,Midland,MI MSA
+527,"Midland, TX MSA",United States,55015.0,177216,Midland,TX MSA
+528,Milan metropolitan area,Italy,233596.0,4985668,Milan,
+529,"Milwaukee-Waukesha, WI MSA",United States,120563.0,1559792,Milwaukee-Waukesha,WI MSA
+530,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",United States,333102.0,3693729,Minneapolis-St. Paul-Bloomington,MN-WI MSA
+531,Minsk,Belarus,19913.0,1995471,Minsk,
+532,"Missoula, MT MSA",United States,7710.0,121041,Missoula,MT MSA
+533,"Mobile, AL MSA",United States,27361.0,426533,Mobile,AL MSA
+534,"Modesto, CA MSA",United States,28674.0,551275,Modesto,CA MSA
+535,Monaco,Monaco,6816.0,39150,Monaco,
+536,Moncton,Canada,6031.0,159177,Moncton,
+537,"Monroe, LA MSA",United States,9650.0,202869,Monroe,LA MSA
+538,"Monroe, MI MSA",United States,7119.0,155609,Monroe,MI MSA
+539,Monterrey,Mexico,140.0,5324281,Monterrey,
+540,Montevideo,Uruguay,539.0,1870000,Montevideo,
+541,"Montgomery, AL MSA",United States,22080.0,385460,Montgomery,AL MSA
+542,Montpellier Méditerranée Métropole,France,45031.0,487519,Montpellier Méditerranée Métropole,
+543,"Morgantown, WV MSA",United States,9657.0,141041,Morgantown,WV MSA
+544,"Morristown, TN MSA",United States,6730.0,146172,Morristown,TN MSA
+545,Moscow metropolitan area,Russia,504808.0,21700000,Moscow,
+546,"Mount Vernon-Anacortes, WA MSA",United States,8773.0,131179,Mount Vernon-Anacortes,WA MSA
+547,Mulhouse Alsace Agglomération,France,27213.0,356125,Mulhouse Alsace Agglomération,
+548,Multan,Pakistan,12000.0,2225000,Multan,
+549,Mumbai,India,27798.0,22300000,Mumbai,
+550,"Muncie, IN MSA",United States,5102.0,112031,Muncie,IN MSA
+551,Munich Metropolitan Region,Germany,384582.0,2926802,Munich Metropolitan Region,
+552,Murcia metropolitan area,Spain,33946.0,1528828,Murcia,
+553,"Muskegon, MI MSA",United States,7408.0,176565,Muskegon,MI MSA
+554,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",United States,25132.0,536165,Myrtle Beach-Conway-North Myrtle Beach,SC-NC MSA
+555,Nagoya,Japan,379301.0,10500000,Nagoya,
+556,Nagpur,India,19.0,3127000,Nagpur,
+557,Nairobi,Kenya,30.0,4750056,Nairobi,
+558,Namur metropolitan area,Belgium,12559.0,319355,Namur,
+559,Nanchang,China,83300.0,6255007,Nanchang,
+560,Nanjing,China,251000.0,8850000,Nanjing,
+561,Nanning,China,54299.0,7765411,Nanning,
+562,Nanping,China,29104.0,2680645,Nanping,
+563,Nantes,France,65457.0,859972,Nantes,
+564,"Napa, CA MSA",United States,13166.0,134300,Napa,CA MSA
+565,Naples metropolitan area,Italy,64296.0,3349233,Naples,
+566,"Naples-Marco Island, FL MSA",United States,28083.0,397994,Naples-Marco Island,FL MSA
+567,"Nashville-Davidson–Murfreesboro–Franklin, TN MSA",United States,187781.0,2046828,Nashville-Davidson–Murfreesboro–Franklin,TN MSA
+568,National Capital Region (Delhi),India,272603.0,31300000,National Capital Region (Delhi),
+569,Neubrandenburg,Germany,8714.0,63043,Neubrandenburg,
+570,"New Bern, NC MSA",United States,6619.0,122488,New Bern,NC MSA
+571,"New Haven-Milford, CT MSA",United States,61456.0,869527,New Haven-Milford,CT MSA
+572,"New Orleans-Metairie, LA MSA",United States,94031.0,1246176,New Orleans-Metairie,LA MSA
+573,"New York–Newark, NY-NJ-CT-PA CSA",United States,2163208.0,21914996,New York–Newark,NY-NJ-CT-PA CSA
+574,Newcastle,Australia,11554.0,492805,Newcastle,
+575,Nicosia,Cyprus,28407.0,350824,Nicosia,
+576,Niigata,Japan,433.0,2374450,Niigata,
+577,"Niles, MI MSA",United States,9030.0,152900,Niles,MI MSA
+578,Ningde,China,37971.0,3146789,Ningde,
+579,"North Port-Sarasota-Bradenton, FL MSA",United States,49369.0,891411,North Port-Sarasota-Bradenton,FL MSA
+580,Northwest Metropolitan Region,Germany,11573.0,2797706,Northwest Metropolitan Region,
+581,"Norwich-New London, CT MSA",United States,22049.0,268681,Norwich-New London,CT MSA
+582,Nuremberg Metropolitan Region,Germany,169195.0,3610543,Nuremberg Metropolitan Region,
+583,Nyingchi,China,2774.0,238936,Nyingchi,
+584,"Ocala, FL MSA",United States,14033.0,396415,Ocala,FL MSA
+585,"Ocean City, NJ MSA",United States,6533.0,95634,Ocean City,NJ MSA
+586,Odense,Denmark,25361.0,205509,Odense,
+587,"Odessa, TX MSA",United States,14192.0,160869,Odessa,TX MSA
+588,Offenburg,Germany,20259.0,88600,Offenburg,
+589,"Ogden-Clearfield, UT MSA",United States,39168.0,713839,Ogden-Clearfield,UT MSA
+590,Okayama,Japan,631.0,1945276,Okayama,
+591,"Oklahoma City, OK MSA",United States,94742.0,1459380,Oklahoma City,OK MSA
+592,"Olympia-Lacey-Tumwater, WA MSA",United States,17927.0,298758,Olympia-Lacey-Tumwater,WA MSA
+593,"Omaha-Council Bluffs, NE-IA MSA",United States,85021.0,976671,Omaha-Council Bluffs,NE-IA MSA
+594,Opole,Poland,8559.0,146522,Opole,
+595,Orange,Australia,3204.0,40493,Orange,
+596,Ordos,China,51232.0,2153638,Ordos,
+597,"Orlando-Kissimmee-Sanford, FL MSA",United States,194472.0,2764182,Orlando-Kissimmee-Sanford,FL MSA
+598,Orléans,France,27499.0,453067,Orléans,
+599,Oshawa,Canada,10321.0,424757,Oshawa,
+600,"Oshkosh-Neenah, WI MSA",United States,12398.0,170718,Oshkosh-Neenah,WI MSA
+601,Oslo,Norway,73715.0,1190000,Oslo,
+602,Osnabrück,Germany,23005.0,272674,Osnabrück,
+603,Ostrava metropolitan area,Czech Republic,25054.0,949291,Ostrava,
+604,Ottawa–Gatineau,Canada,67042.0,1462582,Ottawa–Gatineau,
+605,"Owensboro, KY MSA",United States,6742.0,121348,Owensboro,KY MSA
+606,"Oxnard-Thousand Oaks-Ventura, CA MSA",United States,62329.0,832605,Oxnard-Thousand Oaks-Ventura,CA MSA
+607,Padang Metropolitan,Indonesia,6213.0,1441760,Padang Metropolitan,
+608,Paderborn,Germany,12659.0,309380,Paderborn,
+609,Padua–Treviso–Venice metropolitan area,Italy,34796.0,2748420,Padua–Treviso–Venice,
+610,Palembang Metropolitan,Indonesia,16561.0,3722087,Palembang Metropolitan,
+611,"Palm Bay-Melbourne-Titusville, FL MSA",United States,34626.0,630693,Palm Bay-Melbourne-Titusville,FL MSA
+612,Palma de Mallorca metropolitan area,Spain,24507.0,422587,Palma de Mallorca,
+613,Pamplona metropolitan area,Spain,21636.0,359435,Pamplona,
+614,"Panama City, FL MSA",United States,11683.0,185134,Panama City,FL MSA
+615,Panjin,China,18900.0,1389691,Panjin,
+616,Panzhihua,China,15090.0,1212203,Panzhihua,
+617,Paris metropolitan area,France,934168.0,14800000,Paris,
+618,"Parkersburg-Vienna, WV MSA",United States,4354.0,88431,Parkersburg-Vienna,WV MSA
+619,Parma,Italy,19202.0,450854,Parma,
+620,Patna,India,30.0,2800000,Patna,
+621,Pekanbaru Metropolitan,Indonesia,25279.0,2718278,Pekanbaru Metropolitan,
+622,"Pensacola-Ferry Pass-Brent, FL MSA",United States,27080.0,523146,Pensacola-Ferry Pass-Brent,FL MSA
+623,"Peoria, IL MSA",United States,26282.0,396466,Peoria,IL MSA
+624,Perpignan Méditerranée Métropole,France,1443.0,292142,Perpignan Méditerranée Métropole,
+625,Perth,Australia,111056.0,2087086,Perth,
+626,Perugia metropolitan area,Italy,18509.0,637598,Perugia,
+627,"Peterborough, Ontario",Canada,3657.0,131665,Peterborough,Ontario
+628,Pforzheim,Germany,12932.0,215100,Pforzheim,
+629,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",United States,518485.0,6241164,Philadelphia-Camden-Wilmington,PA-NJ-DE-MD MSA
+630,"Phoenix-Mesa-Chandler, AZ MSA",United States,362087.0,5015678,Phoenix-Mesa-Chandler,AZ MSA
+631,"Pine Bluff, AR MSA",United States,4122.0,84629,Pine Bluff,AR MSA
+632,"Pittsburgh, PA MSA",United States,181485.0,2349172,Pittsburgh,PA MSA
+633,"Pittsfield, MA MSA",United States,8155.0,127859,Pittsfield,MA MSA
+634,Ploiești,Romania,8827.0,180540,Ploiești,
+635,Plzeň,Czech Republic,13742.0,174007,Plzeň,
+636,"Pocatello, ID MSA",United States,4229.0,97585,Pocatello,ID MSA
+637,"Port St. Lucie, FL MSA",United States,24146.0,520710,Port St. Lucie,FL MSA
+638,"Portland-South Portland, ME MSA",United States,43764.0,561576,Portland-South Portland,ME MSA
+639,"Portland-Vancouver-Hillsboro, OR-WA MSA",United States,204319.0,2509489,Portland-Vancouver-Hillsboro,OR-WA MSA
+640,Porto Alegre,Brazil,45506.0,3701525,Porto Alegre,
+641,Porto metropolitan area,Portugal,40868.0,1550000,Porto,
+642,Poznań metropolitan area,Poland,33829.0,546859,Poznań,
+643,Prague metropolitan area,Czech Republic,130085.0,1460000,Prague,
+644,Prato,Italy,8564.0,195213,Prato,
+645,"Prescott Valley–Prescott, AZ MSA",United States,6111.0,236209,Prescott Valley–Prescott,AZ MSA
+646,Pretoria,South Africa,56286.0,7426673,Pretoria,
+647,"Providence-Warwick, RI-MA MSA",United States,105571.0,1673802,Providence-Warwick,RI-MA MSA
+648,"Provo-Orem, UT MSA",United States,40761.0,715001,Provo-Orem,UT MSA
+649,Puebla,Mexico,31102.0,3903485,Puebla,
+650,"Pueblo, CO MSA",United States,7836.0,169544,Pueblo,CO MSA
+651,Pune,India,69.0,9429408,Pune,
+652,"Punta Gorda, FL MSA",United States,7714.0,202661,Punta Gorda,FL MSA
+653,Putian,China,38333.0,3210714,Putian,
+654,Qingdao,China,222.0,7050000,Qingdao,
+655,Quanzhou,China,180.0,8782285,Quanzhou,
+656,Quebec City,Canada,35742.0,832021,Quebec City,
+657,Quzhou,China,23764.0,2276184,Quzhou,
+658,"Racine, WI MSA",United States,9909.0,195846,Racine,WI MSA
+659,"Raleigh-Cary, NC MSA",United States,119675.0,1484338,Raleigh-Cary,NC MSA
+660,"Rapid City, SD MSA",United States,8459.0,145159,Rapid City,SD MSA
+661,"Reading, PA MSA",United States,23751.0,430449,Reading,PA MSA
+662,Recife,Brazil,2281.0,3741898,Recife,
+663,"Redding, CA MSA",United States,9921.0,180930,Redding,CA MSA
+664,Regensburg,Germany,25618.0,243200,Regensburg,
+665,Reggio Emilia metropolitan area,Italy,21133.0,525366,Reggio Emilia,
+666,"Regina, Saskatchewan",Canada,1302.0,263236,Regina,Saskatchewan
+667,Rennes Métropole,France,48287.0,624744,Rennes Métropole,
+668,"Reno, NV MSA",United States,40095.0,500915,Reno,NV MSA
+669,Frankfurt Rhine-Main Metropolitan Region,Germany,197259.0,5808518,Frankfurt Rhine-Main Metropolitan Region,
+670,Rhine-Neckar Metropolitan Region,Germany,113354.0,2362000,Rhine-Neckar Metropolitan Region,
+671,"Richmond, VA MSA",United States,109513.0,1339182,Richmond,VA MSA
+672,Riga metropolitan area,Latvia,25207.0,663012,Riga,
+673,Rio de Janeiro metropolitan area,Brazil,195095.0,13463349,Rio de Janeiro,
+674,"Riverside-San Bernardino-Ontario, CA MSA",United States,237913.0,4667558,Riverside-San Bernardino-Ontario,CA MSA
+675,Riyadh,Saudi Arabia,243793.0,7009000,Riyadh,
+676,"Roanoke, VA MSA",United States,19936.0,314340,Roanoke,VA MSA
+677,"Rochester, MN MSA",United States,16500.0,228073,Rochester,MN MSA
+678,"Rochester, NY MSA",United States,75085.0,1081152,Rochester,NY MSA
+679,"Rockford, IL MSA",United States,18129.0,335342,Rockford,IL MSA
+680,Rockhampton,Australia,5342.0,78592,Rockhampton,
+681,"Rocky Mount, NC MSA",United States,8097.0,144090,Rocky Mount,NC MSA
+682,Rome metropolitan area,Italy,175336.0,4325591,Rome,
+683,"Rome, GA MSA",United States,4947.0,99443,Rome,GA MSA
+684,Rostock,Germany,15661.0,243000,Rostock,
+685,Rotterdam,Netherlands,112578.0,1876165,Rotterdam,
+686,Rzeszów,Poland,8547.0,195871,Rzeszów,
+687,Saarbrücken,Germany,33295.0,700000,Saarbrücken,
+688,"Sacramento-Roseville-Folsom, CA MSA",United States,176276.0,2416702,Sacramento-Roseville-Folsom,CA MSA
+689,"Saginaw, MI MSA",United States,10091.0,188330,Saginaw,MI MSA
+690,"Saguenay, Quebec",Canada,6345.0,163335,Saguenay,Quebec
+691,"Saint John, New Brunswick",Canada,4747.0,131935,Saint John,New Brunswick
+692,Saint Petersburg,Russia,128000.0,6200000,Saint Petersburg,
+693,Saint-Étienne Métropole,France,26675.0,425495,Saint-Étienne Métropole,
+694,"Salem, OR MSA",United States,24075.0,436317,Salem,OR MSA
+695,"Salinas, CA MSA",United States,33249.0,432858,Salinas,CA MSA
+696,"Salisbury, MD-DE MSA",United States,28573.0,439032,Salisbury,MD-DE MSA
+697,"Salt Lake City, UT MSA",United States,135409.0,1266191,Salt Lake City,UT MSA
+698,Salvador,Brazil,1798.0,3600000,Salvador,
+699,Salzburg,Austria,23287.0,157245,Salzburg,
+700,"San Angelo, TX MSA",United States,9238.0,121839,San Angelo,TX MSA
+701,"San Antonio-New Braunfels, TX MSA",United States,163061.0,2655342,San Antonio-New Braunfels,TX MSA
+702,"San Diego-Chula Vista-Carlsbad, CA MSA",United States,295645.0,3276208,San Diego-Chula Vista-Carlsbad,CA MSA
+703,"San Jose-San Francisco–Oakland, CA CSA",United States,1383000.0,6518123,San Jose-San Francisco–Oakland,CA CSA
+704,San Juan,Puerto Rico,45461.0,1920000,San Juan,
+705,"San Luis Obispo-Paso Robles, CA MSA",United States,21713.0,282013,San Luis Obispo-Paso Robles,CA MSA
+706,San Marino,San Marino,2034.0,34000,San Marino,
+707,San Sebastián metropolitan area,Spain,24897.0,428187,San Sebastián,
+708,Sanmenxia,China,21033.0,2034872,Sanmenxia,
+709,Sanming,China,39177.0,2486450,Sanming,
+710,Santa Cruz de Tenerife metropolitan area,Spain,19575.0,434083,Santa Cruz de Tenerife,
+711,"Santa Cruz-Watsonville, CA MSA",United States,19176.0,264370,Santa Cruz-Watsonville,CA MSA
+712,"Santa Fe, NM MSA",United States,8797.0,155664,Santa Fe,NM MSA
+713,"Santa Maria-Santa Barbara, CA MSA",United States,36081.0,443837,Santa Maria-Santa Barbara,CA MSA
+714,"Santa Rosa-Petaluma, CA MSA",United States,36877.0,482650,Santa Rosa-Petaluma,CA MSA
+715,Santander metropolitan area,Spain,14665.0,256025,Santander,
+716,Santiago Metropolitan Region,Chile,128800.0,8050000,Santiago Metropolitan Region,
+717,Santiago de Cali,Colombia,22100.0,2925000,Santiago de Cali,
+718,Santos,Brazil,28609.0,1556718,Santos,
+719,São José dos Campos,Brazil,30148.0,1419657,São José dos Campos,
+720,São José dos Pinhais,Brazil,14726.0,264210,São José dos Pinhais,
+721,Sapporo,Japan,847.0,1913545,Sapporo,
+722,Saskatoon,Canada,15059.0,336850,Saskatoon,
+723,"Savannah, GA MSA",United States,29452.0,418373,Savannah,GA MSA
+724,Schweinfurt,Germany,12847.0,100500,Schweinfurt,
+725,"Scranton–Wilkes-Barre, PA MSA",United States,32328.0,567998,Scranton–Wilkes-Barre,PA MSA
+726,"Seattle-Tacoma-Bellevue, WA MSA",United States,517803.0,4034248,Seattle-Tacoma-Bellevue,WA MSA
+727,"Sebastian-Vero Beach, FL MSA",United States,9573.0,167352,Sebastian-Vero Beach,FL MSA
+728,"Sebring-Avon Park, FL MSA",United States,3215.0,105618,Sebring-Avon Park,FL MSA
+729,Semarang Metropolitan,Indonesia,26057.0,6608815,Semarang Metropolitan,
+730,Sendai,Japan,50.0,1082159,Sendai,
+731,Seoul Capital Area,South Korea,878535.0,24800000,Seoul Capital Area,
+732,Seville metropolitan area,Spain,42016.0,1558006,Seville,
+733,Shanghai,China,663874.0,24890106,Shanghai,
+734,Shantou,China,348.0,5502031,Shantou,
+735,Shaoxing,China,86999.0,5270977,Shaoxing,
+736,"Sheboygan, WI MSA",United States,8087.0,117841,Sheboygan,WI MSA
+737,Sheffield,United Kingdom,406.0,1570000,Sheffield,
+738,Shenyang,China,95276.0,8000000,Shenyang,
+739,Sherbrooke,Canada,702.0,224456,Sherbrooke,
+740,"Sherman-Denison, TX MSA",United States,6331.0,143131,Sherman-Denison,TX MSA
+741,Shijiazhuang,China,81252.0,11235086,Shijiazhuang,
+742,Shizuishan,China,7853.0,751389,Shizuishan,
+743,Shizuoka,Japan,458.0,3765007,Shizuoka,
+744,"Shreveport-Bossier City, LA MSA",United States,27363.0,385154,Shreveport-Bossier City,LA MSA
+745,Shuozhou,China,15955.0,1593444,Shuozhou,
+746,Siegen,Germany,16336.0,101516,Siegen,
+747,"Sierra Vista-Douglas, AZ MSA",United States,5698.0,125663,Sierra Vista-Douglas,AZ MSA
+748,Singapore,Singapore,525228.0,5938000,Singapore,
+749,"Sioux City, IA-NE-SD MSA",United States,10918.0,149240,Sioux City,IA-NE-SD MSA
+750,"Sioux Falls, SD MSA",United States,27770.0,289592,Sioux Falls,SD MSA
+751,Sofia metropolitan area,Bulgaria,33042.0,1300000,Sofia,
+752,Sorocaba,Brazil,21313.0,779704,Sorocaba,
+753,"South Bend-Mishawaka, IN-MI MSA",United States,19042.0,323637,South Bend-Mishawaka,IN-MI MSA
+754,"Spartanburg, SC MSA",United States,19485.0,345831,Spartanburg,SC MSA
+755,"Spokane-Spokane Valley, WA MSA",United States,35689.0,597919,Spokane-Spokane Valley,WA MSA
+756,"Springfield, IL MSA",United States,13952.0,206655,Springfield,IL MSA
+757,"Springfield, MA MSA",United States,40110.0,694523,Springfield,MA MSA
+758,"Springfield, MO MSA",United States,26687.0,487061,Springfield,MO MSA
+759,"Springfield, OH MSA",United States,5500.0,134831,Springfield,OH MSA
+760,St. Catharines–Niagara Falls,Canada,12979.0,437080,St. Catharines–Niagara Falls,
+761,"St. Cloud, MN MSA",United States,12943.0,201868,St. Cloud,MN MSA
+762,"St. George, UT MSA",United States,9561.0,197680,St. George,UT MSA
+763,"St. John's, Newfoundland and Labrador",Canada,9628.0,213919,St. John's,Newfoundland and Labrador
+764,"St. Joseph, MO-KS MSA",United States,6873.0,119690,St. Joseph,MO-KS MSA
+765,"St. Louis, MO-IL MSA",United States,209936.0,2801319,St. Louis,MO-IL MSA
+766,"State College, PA MSA",United States,10325.0,158425,State College,PA MSA
+767,"Staunton, VA MSA",United States,6332.0,126776,Staunton,VA MSA
+768,Stockholm metropolitan area,Sweden,203899.0,2308143,Stockholm,
+769,"Stockton, CA MSA",United States,40228.0,793229,Stockton,CA MSA
+770,Strasbourg,France,4909.0,1150899,Strasbourg,
+771,Stuttgart Metropolitan Region,Germany,294957.0,2400000,Stuttgart Metropolitan Region,
+772,"Sumter, SC MSA",United States,5801.0,134925,Sumter,SC MSA
+773,Sunshine Coast,Australia,13813.0,333436,Sunshine Coast,
+774,Surabaya Metropolitan,Indonesia,88821.0,11800657,Surabaya Metropolitan,
+775,Surat,India,598.0,6600000,Surat,
+776,Sydney,Australia,398037.0,5400000,Sydney,
+777,"Syracuse, NY MSA",United States,49281.0,653633,Syracuse,NY MSA
+778,Szczecin metropolitan area,Poland,13822.0,750000,Szczecin,
+779,Taichung,Taiwan,63910.0,3033840,Taichung,
+780,Tainan,Taiwan,37038.0,1875076,Tainan,
+781,Taipei–Keelung metropolitan area,Taiwan,407838.0,9150000,Taipei–Keelung,
+782,Taiyuan,China,60215.0,5304061,Taiyuan,
+783,"Taizhou, Jiangsu",China,77015.0,4512762,Taizhou,Jiangsu
+784,"Taizhou, Zhejiang",China,76300.0,6622888,Taizhou,Zhejiang
+785,"Tallahassee, FL MSA",United States,22394.0,390992,Tallahassee,FL MSA
+786,Tallinn metropolitan area,Estonia,22797.0,638076,Tallinn,
+787,"Tampa-St. Petersburg-Clearwater, FL MSA",United States,219414.0,3290730,Tampa-St. Petersburg-Clearwater,FL MSA
+788,Tampere,Finland,23987.0,241009,Tampere,
+789,Tangshan,China,132.0,2600000,Tangshan,
+790,Taoyuan,Taiwan,52010.0,2254363,Taoyuan,
+791,Taranto metropolitan area,Italy,11518.0,555999,Taranto,
+792,Tbilisi,Georgia,80.0,1184818,Tbilisi,
+793,Tel Aviv metropolitan area,Israel,31000.0,4260000,Tel Aviv,
+794,"Terre Haute, IN MSA",United States,9774.0,184875,Terre Haute,IN MSA
+795,"Texarkana, TX-AR MSA",United States,6746.0,146408,Texarkana,TX-AR MSA
+796,The Hague,Netherlands,60105.0,1116798,The Hague,
+797,"The Villages, FL MSA",United States,5785.0,144970,The Villages,FL MSA
+798,Thessaloniki,Greece,16452.0,1104023,Thessaloniki,
+799,Thunder Bay,Canada,4658.0,126502,Thunder Bay,
+800,Tilburg,Netherlands,21869.0,221947,Tilburg,
+801,Timișoara metropolitan area,Romania,11526.0,430071,Timișoara,
+802,Tokelau,Tokelau,9.0,1499,Tokelau,
+803,"Toledo, OH MSA",United States,45846.0,640384,Toledo,OH MSA
+804,Toowoomba,Australia,7118.0,136861,Toowoomba,
+805,"Topeka, KS MSA",United States,14388.0,231783,Topeka,KS MSA
+806,Toulouse Métropole,France,65456.0,1445789,Toulouse Métropole,
+807,Tours Métropole Val de Loire,France,23795.0,392030,Tours Métropole Val de Loire,
+808,Townsville,Australia,9075.0,180820,Townsville,
+809,"Trenton-Princeton, NJ MSA",United States,49620.0,380688,Trenton-Princeton,NJ MSA
+810,Trois-Rivières,Canada,5134.0,163374,Trois-Rivières,
+811,"Tucson, AZ MSA",United States,55800.0,1057597,Tucson,AZ MSA
+812,"Tulsa, OK MSA",United States,61966.0,1034123,Tulsa,OK MSA
+813,Turin metropolitan area,Italy,78268.0,1728714,Turin,
+814,Turku metropolitan area,Finland,21939.0,346662,Turku,
+815,"Tuscaloosa, AL MSA",United States,13818.0,277494,Tuscaloosa,AL MSA
+816,"Twin Falls, Idaho",United States,5878.0,116645,Twin Falls,Idaho
+817,"Tyler, TX MSA",United States,14729.0,241922,Tyler,TX MSA
+818,Uberlandia,Brazil,14728.0,604013,Uberlandia,
+819,Ulm,Germany,26464.0,126949,Ulm,
+820,Uppsala,Sweden,19237.0,388394,Uppsala,
+821,"Urban Honolulu, HI MSA",United States,74422.0,995638,Urban Honolulu,HI MSA
+822,Ürümqi,China,48385.0,4054369,Ürümqi,
+823,"Utica-Rome, NY MSA",United States,15115.0,288668,Utica-Rome,NY MSA
+824,Utrecht,Netherlands,88005.0,1356430,Utrecht,
+825,"Valdosta, GA MSA",United States,7132.0,149849,Valdosta,GA MSA
+826,Valencia metropolitan area,Spain,64435.0,1768205,Valencia,
+827,Valladolid,Spain,15309.0,371861,Valladolid,
+828,"Vallejo, CA MSA",United States,35408.0,448747,Vallejo,CA MSA
+829,Valletta,Malta,1772.0,480134,Valletta,
+830,Verona metropolitan area,Italy,34169.0,915975,Verona,
+831,"Victoria, British Columbia",Canada,16789.0,409398,Victoria,British Columbia
+832,"Victoria, TX MSA",United States,5907.0,98196,Victoria,TX MSA
+833,Vienna,Austria,165968.0,3004660,Vienna,
+834,Vigo metropolitan area,Spain,22987.0,321748,Vigo,
+835,Vilnius urban area,Lithuania,30915.0,868341,Vilnius urban area,
+836,"Vineland-Bridgeton, NJ MSA",United States,7831.0,151356,Vineland-Bridgeton,NJ MSA
+837,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",United States,116686.0,1806840,Virginia Beach-Norfolk-Newport News,VA-NC MSA
+838,"Visalia, CA MSA",United States,22794.0,477544,Visalia,CA MSA
+839,Vishakhapatnam,India,435.0,2200000,Vishakhapatnam,
+840,Vitória,Brazil,28357.0,1582418,Vitória,
+841,Vitoria-Gasteiz,Spain,13403.0,253996,Vitoria-Gasteiz,
+842,"Waco, TX MSA",United States,16276.0,283885,Waco,TX MSA
+843,Wagga Wagga,Australia,4392.0,56442,Wagga Wagga,
+844,"Walla Walla, WA MSA",United States,4134.0,61890,Walla Walla,WA MSA
+845,"Warner Robins, GA MSA",United States,9812.0,198193,Warner Robins,GA MSA
+846,Warsaw metropolitan area,Poland,135343.0,3269510,Warsaw,
+847,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",United States,660626.0,6373756,Washington-Arlington-Alexandria,DC-VA-MD-WV MSA
+848,"Waterloo-Cedar Falls, IA MSA",United States,11824.0,167889,Waterloo-Cedar Falls,IA MSA
+849,"Watertown-Fort Drum, NY MSA",United States,7598.0,116637,Watertown-Fort Drum,NY MSA
+850,"Wausau-Weston, WI MSA",United States,12065.0,166334,Wausau-Weston,WI MSA
+851,Weihai,China,43753.0,2906548,Weihai,
+852,"Weirton-Steubenville, WV-OH MSA",United States,7446.0,114235,Weirton-Steubenville,WV-OH MSA
+853,Wellington,New Zealand,26607.0,440900,Wellington,
+854,"Wenatchee, WA MSA",United States,8355.0,124118,Wenatchee,WA MSA
+855,Wenzhou,China,1192.0,5050000,Wenzhou,
+856,Wetzlar,Germany,9957.0,278200,Wetzlar,
+857,"Wheeling, WV-OH MSA",United States,12603.0,136708,Wheeling,WV-OH MSA
+858,"Wichita Falls, TX MSA",United States,7590.0,149299,Wichita Falls,TX MSA
+859,"Wichita, KS MSA",United States,43935.0,650039,Wichita,KS MSA
+860,"Williamsport, PA MSA",United States,7040.0,113104,Williamsport,PA MSA
+861,"Wilmington, NC MSA",United States,20127.0,300658,Wilmington,NC MSA
+862,"Winchester, VA-WV MSA",United States,9181.0,146455,Winchester,VA-WV MSA
+863,"Windsor, Ontario",Canada,12243.0,353572,Windsor,Ontario
+864,Winnipeg Metropolitan Region,Canada,33557.0,850558,Winnipeg Metropolitan Region,
+865,"Winston-Salem, NC MSA",United States,40940.0,688471,Winston-Salem,NC MSA
+866,Wollongong,Australia,5624.0,300332,Wollongong,
+867,"Worcester, MA-CT MSA",United States,60343.0,980137,Worcester,MA-CT MSA
+868,Wrocław metropolitan area,Poland,17387.0,672929,Wrocław,
+869,Wuhai,China,8165.0,556621,Wuhai,
+870,Wuhan,China,281000.0,10800000,Wuhan,
+871,Wuhu,China,54412.0,3644420,Wuhu,
+872,Xi'an,China,171.0,11600000,Xi'an,
+873,Xiamen,China,92557.0,5163970,Xiamen,
+874,Xiangtan,China,33971.0,2726181,Xiangtan,
+875,Xiangyang,China,66720.0,5260951,Xiangyang,
+876,Xilingol League,China,12176.0,1107075,Xilingol League,
+877,Xinyu,China,14517.0,1202499,Xinyu,
+878,Xuchang,China,50008.0,4379998,Xuchang,
+879,Xuzhou,China,126.0,3050000,Xuzhou,
+880,"Yakima, WA MSA",United States,13038.0,257001,Yakima,WA MSA
+881,Yan'an,China,23219.0,2282581,Yan'an,
+882,Yancheng,China,86314.0,6709629,Yancheng,
+883,Yangzhou,China,87690.0,4559797,Yangzhou,
+884,Yantai,China,142.0,2450000,Yantai,
+885,Yerevan,Armenia,523.0,1500000,Yerevan,
+886,Yichang,China,61783.0,4017607,Yichang,
+887,Yingtan,China,14290.0,1154223,Yingtan,
+888,"York-Hanover, PA MSA",United States,25187.0,461058,York-Hanover,PA MSA
+889,"Youngstown-Warren-Boardman, OH-PA MSA",United States,24990.0,535499,Youngstown-Warren-Boardman,OH-PA MSA
+890,"Yuba City, CA MSA",United States,8608.0,182813,Yuba City,CA MSA
+891,Yueyang,China,58015.0,5051922,Yueyang,
+892,"Yulin, Shaanxi",China,59293.0,3624750,Yulin,Shaanxi
+893,"Yuma, AZ MSA",United States,9883.0,207842,Yuma,AZ MSA
+894,Yuxi,China,29840.0,2249502,Yuxi,
+895,Zagreb metropolitan area,Croatia,2963.0,1189279,Zagreb,
+896,Zaragoza metropolitan area,Spain,29702.0,681877,Zaragoza,
+897,Zhangzhou,China,65903.0,5054328,Zhangzhou,
+898,Zhengzhou,China,192.0,8950000,Zhengzhou,
+899,Zhenjiang,China,61182.0,3210418,Zhenjiang,
+900,Zhuzhou,China,45029.0,1330000,Zhuzhou,
+901,Zibo,China,53260.0,4704138,Zibo,
+902,Zürich Metropolitan Area,Switzerland,158913.0,1430000,Zürich Metropolitan Area,
+903,Zwolle,Netherlands,17936.0,129840,Zwolle,
